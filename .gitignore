@@ -1,0 +1,4 @@
+# Only ignore build/dev files
+.dart_tool/
+build/
+coverage/

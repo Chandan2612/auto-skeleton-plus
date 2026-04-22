@@ -1,0 +1,20 @@
+name: auto_skeleton_plus_example
+description: Example app demonstrating usage of auto_skeleton_plus package
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🔹 Local package reference (used during development)
+  auto_skeleton_plus:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

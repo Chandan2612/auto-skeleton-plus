@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      auto_skeleton_plus:
+        generate_for:
+          - lib/**.dart
+
+builders:
+  auto_skeleton_plus:
+    import: "package:auto_skeleton_plus/src/generator/skeleton_generator.dart"
+    builder_factories: ["skeletonBuilder"]
+    build_extensions: {".dart": [".skeleton.dart"]}
+    auto_apply: dependents
+    build_to: source
