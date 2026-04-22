@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 0.0.4
+
+### 🐛 Fixes
+- Fixed License issue
+
+
 ## 0.0.3
 
 ### 🐛 Fixes

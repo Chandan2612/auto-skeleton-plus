@@ -1,6 +1,6 @@
 name: auto_skeleton_plus
 description: Automatically generate skeleton loaders from Flutter widgets using code generation
-version: 0.0.3
+version: 0.0.4
 
 homepage: https://github.com/chandan2612/auto_skeleton_plus
 repository: https://github.com/chandan2612/auto_skeleton_plus
