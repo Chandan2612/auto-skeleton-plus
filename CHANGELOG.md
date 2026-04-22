@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 0.0.3
+
+### 🐛 Fixes
+- Fixed incorrect version reference in README
+- Minor documentation improvements
+
+---
+
 ## 0.0.2
 
 ### 🚀 Improvements
