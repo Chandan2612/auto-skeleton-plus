@@ -1,6 +1,6 @@
 name: auto_skeleton_plus
 description: Automatically generate skeleton loaders from Flutter widgets using code generation
-version: 0.0.1
+version: 0.0.2
 
 homepage: https://github.com/chandan2612/auto_skeleton_plus
 repository: https://github.com/chandan2612/auto_skeleton_plus
@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   shimmer: ^3.0.0
 
-  # 🔥 REQUIRED (moved from dev)
+  # ✅ Stable + compatible versions
   build: ^2.4.1
   source_gen: ^1.5.0
   analyzer: ^6.4.1
@@ -22,7 +22,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^2.4.0
+  build_runner: ^2.4.13
   flutter_lints: ^3.0.0
 
 topics:
